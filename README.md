@@ -1,4 +1,4 @@
-# praktikum-4 Bahasa pemrograman python
+# praktikum
 ### Langkah Langkah membuat Struktur Kondisi dan Perulangan
 
 1. Buat folder dengan nama Praktikum4 lalu didalamnya kita buat dua folder yaitu `struktur-kondisi` &` perulangan`  dan didalamnya buat file` Latihan1.py` dan` Latihan2.py` dimasing masing folder . 
@@ -6,7 +6,7 @@
 
   `NOTE : kalian bebas membuat folder dan file dimana saja`
 
-   ![Folder](/Pict/Folder.png)
+  
 
 2. Selanjutnya kita buka file `struktur-kondisi` >` Latihan1.py` lalu masukan perintah codingan sebagai berikut :
 
@@ -63,7 +63,7 @@
    ```
       Jika sudah lalu kita jalankan dengan cara ketikan diterminal yaitu `python Latihan2.py` !!! perlu diingat kita harus berada didirektor struktur-kondisi. Lalu akan tampil hasilnya seperti dibawah ini
 
-      ![Hasil kondisi2](/Pict/S&KHasil2.png)
+      ![img](img/gambar2.png)
 
 4. Selanjutnya kita buka `Latihan1.py` pada folder `perulangan` lalu ketikan perintah codingan sebagai berikut :
 
@@ -137,4 +137,4 @@
       ### BERIKUT ADALAH LANGKAH LANGKAH MEMBUAT "STUKTUR KONDIS" DAN "PERULANGAN" PADA PYTHON
       ___________________
        TERIMA KASIH
-       # GARNISH ANDHIKA PRATAMA(312210161)
+       # AGENG LISTIYAT YONO (312210082)
